@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodiFormat", "KodiFormat\KodiFormat.csproj", "{EB66B7DA-FBB8-479E-B699-24696914043A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB66B7DA-FBB8-479E-B699-24696914043A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB66B7DA-FBB8-479E-B699-24696914043A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB66B7DA-FBB8-479E-B699-24696914043A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB66B7DA-FBB8-479E-B699-24696914043A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

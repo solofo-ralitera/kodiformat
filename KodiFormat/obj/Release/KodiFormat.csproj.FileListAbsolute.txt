@@ -1,0 +1,6 @@
+D:\projets\csharp\KodiFormat\KodiFormat\bin\Release\KodiFormat.exe.config
+D:\projets\csharp\KodiFormat\KodiFormat\bin\Release\KodiFormat.exe
+D:\projets\csharp\KodiFormat\KodiFormat\bin\Release\KodiFormat.pdb
+D:\projets\csharp\KodiFormat\KodiFormat\obj\Release\KodiFormat.csprojResolveAssemblyReference.cache
+D:\projets\csharp\KodiFormat\KodiFormat\obj\Release\KodiFormat.exe
+D:\projets\csharp\KodiFormat\KodiFormat\obj\Release\KodiFormat.pdb
